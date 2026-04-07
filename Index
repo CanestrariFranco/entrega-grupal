@@ -1,33 +1,31 @@
 <!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parada Técnica - Inicio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+    <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Parada Técnica - Inicio</title>
+        </head>
+        <body>
+            <header>
+                <h1>Parada Técnica</h1>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="servicios.html">Servicios</a></li>
+                        <li><a href="contacto.html">Contacto</a></li>
+                    </ul>
+                </nav>
+            </header>
 
-<header>
-    <h1>Parada Técnica</h1>
-    <nav>
-        <ul>
-            <li><a href="index.html">Inicio</a></li>
-            <li><a href="servicios.html">Servicios</a></li>
-            <li><a href="contacto.html">Contacto</a></li>
-        </ul>
-    </nav>
-</header>
+            <main>
+                <h2>Bienvenidos a nuestra consultora</h2>
+                <p>En Parada Técnica brindamos soluciones tecnicas para para mejorar la gestión y el alcance de las empresas en el ambito informtico.</p>
+                <p>Nos especializamos en desarrollo de paginas web y desarrollo de intranet</p>
+            </main>
 
-<main>
-    <h2>Bienvenidos a nuestra consultora</h2>
-    <p>En Parada Técnica brindamos soluciones tecnicas para para mejorar la gestión y el alcance de las empresas en el ambito informtico.</p>
-    <p>Nos especializamos en desarrollo de paginas web y desarrollo de intranet</p>
-</main>
+            <footer>
+                <p>© 2026 Parada Técnica | contacto@paradatecnica.com</p>
+            </footer>
 
-<footer>
-    <p>© 2026 Parada Técnica | contacto@paradatecnica.com</p>
-</footer>
-
-</body>
+        </body>
 </html>
