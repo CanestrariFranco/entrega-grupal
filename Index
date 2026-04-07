@@ -1,18 +1,33 @@
     <!DOCTYPE html>
-    <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Parada Tecnica</title>
-        </head>
-       <header> Parada Tecnica</header> 
-        <body>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parada Técnica - Inicio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Parada Técnica</h1>
+    <nav>
         <ul>
-            <li>Proyectos</li>
-            <li>Servicios</li>
-            <li>Contacto</li>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="servicios.html">Servicios</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
         </ul>
-        </body>
-        <footer>
-            <p>© 2026 - Parada Tecnica</p>
-        </footer>
+    </nav>
+</header>
+
+<main>
+    <h2>Bienvenidos a nuestra consultora</h2>
+    <p>En Parada Técnica brindamos soluciones estratégicas para mejorar la gestión y el rendimiento de las organizaciones.</p>
+    <p>Nos especializamos en optimización de procesos, recursos humanos y desarrollo organizacional.</p>
+</main>
+
+<footer>
+    <p>© 2026 Parada Técnica | contacto@paradatecnica.com</p>
+</footer>
+
+</body>
+</html>
