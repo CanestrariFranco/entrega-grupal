@@ -56,3 +56,24 @@ ul {
 li {
     margin-bottom: 5px;
 }
+
+/* Links normales */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Link visitado (el que se pone violeta) */
+a:visited {
+    color: #ffffff;
+}
+
+/* Cuando pasás el mouse */
+a:hover {
+    color: #cccccc; /* opcional: blanco más suave */
+}
+
+/* Cuando hacés click */
+a:active {
+    color: #ffffff;
+}
