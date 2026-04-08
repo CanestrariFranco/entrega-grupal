@@ -13,17 +13,17 @@ body {
     padding: 20px;
 }
 
-/* Contenedor de cada sección */
-section {
+/* Header */
+header {
     background-color: #123a63; /* azul más claro */
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
 }
 
-/* Header */
-header {
-    background-color: #123a63;
+/* Secciones */
+section {
+    background-color: #123a63; /* azul más claro */
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -48,32 +48,29 @@ p {
     margin-bottom: 10px;
 }
 
-/* Listas */
+/* Listas con viñetas pegadas */
 ul {
-    list-style-position: inside; /* viñetas pegadas */
+    list-style-position: inside;
 }
 
 li {
     margin-bottom: 5px;
 }
 
-/* Links normales */
+/* LINKS (solución al violeta) */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Link visitado (el que se pone violeta) */
 a:visited {
     color: #ffffff;
 }
 
-/* Cuando pasás el mouse */
 a:hover {
-    color: #cccccc; /* opcional: blanco más suave */
+    color: #64ffda; /* efecto IT moderno */
 }
 
-/* Cuando hacés click */
 a:active {
     color: #ffffff;
 }
