@@ -95,6 +95,29 @@ footer {
     color: white;
     font-weight: bold;
 }
+.figma-link {
+    text-align: center;
+}
+
+.figma-link p {
+    margin-bottom: 15px;
+}
+
+.figma-link a {
+    display: inline-block;
+    background-color: #64ffda;
+    color: #0b1f3a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 12px 18px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.figma-link a:hover {
+    background-color: white;
+    transform: scale(1.05);
+}
 
 @media (max-width: 600px) {
      header {
